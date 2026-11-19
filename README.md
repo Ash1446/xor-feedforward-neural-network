@@ -12,3 +12,4 @@ python xor_nn.py
 Predictions ≈ [0.019, 0.984, 0.984, 0.017] (classes 0 1 1 0).
 Plots saved: perceptron_fail, loss_curve, decision_boundary,
 activation_comparison, lr_comparison.
+Live demo: https://your-app-name.streamlit.app
